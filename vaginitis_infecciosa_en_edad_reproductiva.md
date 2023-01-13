@@ -132,5 +132,3 @@ En caso de libre evolución puede evolucionar a enfermedad pélvica inflamatoria
 La colonización con subespecies de cándida no se asocia a parto prematuro ni a recién nacidos de bajo peso.
 
 Las vulvovaginitis por *Candida spp* pueden ser incapacitantes para actividades de la vida diaria. Se pueden dar de 1 a 3 días de incapacidad.
-
-## Bibliografía
